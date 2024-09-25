@@ -1,0 +1,7 @@
+User-Agent: *
+
+Disallow:
+
+
+Sitemap: http://mostbet.yachtracing.pro/sitemap.xml
+Host: mostbet.yachtracing.pro
